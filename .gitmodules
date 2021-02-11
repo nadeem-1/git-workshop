@@ -1,0 +1,3 @@
+[submodule "git-workshop/submodule-workshop"]
+	path = git-workshop/submodule-workshop
+	url = https://github.com/nadeem590/submodule-workshop.git
